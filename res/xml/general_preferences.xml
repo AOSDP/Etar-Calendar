@@ -21,7 +21,7 @@
             android:title="@string/preferences_theme"
             android:entries="@array/pref_theme_entries"
             android:entryValues="@array/pref_theme_values"
-            android:defaultValue="light"/>
+            android:defaultValue="black"/>
         <Preference
             android:key="pref_color"
             android:title="@string/preferences_color"
